@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PranjulInvincible , I am a virtual reality developer @Invincible
+- 👋 Hi, I’m @PranjulInvincible, a virtual reality developer @Invincible
 - 👀 I’m interested in AR, VR, Game Development, Cloud, Devops.
 - 🌱 I’m currently learning VR.
 - 💞️ I’m looking to collaborate on Game Development.
